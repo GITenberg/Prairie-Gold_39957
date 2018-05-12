@@ -1,0 +1,111 @@
+_repo: Prairie-Gold_39957
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Ficke, Arthur Davison
+    alias: Knish, Anne
+    birthdate: 1883
+    deathdate: 1945
+    gutenberg_agent_id: '26668'
+    url: http://www.gutenberg.org/2009/agents/26668
+  - agent_name: Hough, Emerson
+    birthdate: 1857
+    deathdate: 1923
+    gutenberg_agent_id: '1094'
+    url: http://www.gutenberg.org/2009/agents/1094
+    wikipedia: http://en.wikipedia.org/wiki/Emerson_Hough
+  - agent_name: Garland, Hamlin
+    birthdate: 1860
+    deathdate: 1940
+    gutenberg_agent_id: '1034'
+    url: http://www.gutenberg.org/2009/agents/1034
+    wikipedia: http://en.wikipedia.org/wiki/Hamlin_Garland
+  illustrators:
+  - agent_name: Wing, Francis Marion
+    alias: Wing, Frank M. (Francis Marion)
+    birthdate: 1873
+    deathdate: 1956
+    gutenberg_agent_id: '6839'
+    url: http://www.gutenberg.org/2009/agents/6839
+  - agent_name: Orwig, Louise
+    gutenberg_agent_id: '44596'
+    url: http://www.gutenberg.org/2009/agents/44596
+  - agent_name: Macy, Harriet
+    gutenberg_agent_id: '34856'
+    url: http://www.gutenberg.org/2009/agents/34856
+  - agent_name: Darling, Jay N. (Jay Norwood)
+    aliases:
+    - Ding
+    - Darling, Jay Norwood
+    - Darling, Ding
+    birthdate: 1876
+    deathdate: 1962
+    gutenberg_agent_id: '41562'
+    url: http://www.gutenberg.org/2009/agents/41562
+covers:
+- cover_type: archival
+  image_path: 39957-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Iowa Press and Authors' Club
+    gutenberg_agent_id: '41661'
+    url: http://www.gutenberg.org/2009/agents/41661
+  editors:
+  - agent_name: Smith, Lewis Worthington
+    birthdate: 1866
+    deathdate: 1947
+    gutenberg_agent_id: '32554'
+    url: http://www.gutenberg.org/2009/agents/32554
+  - agent_name: Brigham, Johnson
+    birthdate: 1846
+    deathdate: 1936
+    gutenberg_agent_id: '40332'
+    url: http://www.gutenberg.org/2009/agents/40332
+  - agent_name: LeCron, Helen Cowles
+    birthdate: 1886
+    deathdate: 1963
+    gutenberg_agent_id: '40333'
+    url: http://www.gutenberg.org/2009/agents/40333
+description: ''
+gutenberg_issued: '2012-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39957'
+  lccn: '17031451'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'World War, 1914-1918 -- Gift books'
+- !lcsh 'Iowa -- Literary collections'
+- !lcsh 'Short stories, American -- Iowa'
+- !lcsh 'American literature -- Iowa'
+tableOfContents: 'The wind in the corn / Alice C. Weitz -- The graven image / Hamlin
+  Garland -- Masterpieces / Ethel Hueston -- Bread / Ellis Parker Butler -- At Kamakura:
+  1917 / Arthur Davison Ficke -- That Iowa town / Oney Fred Sweet -- But once a year
+  / R. O''Grady -- The reminder / Allan Updegraff -- Old Bill / Henry C. Wallace --
+  The recruit''s story / Frank Luther Mott -- The happiest man in I-o-way / Rupert
+  Hughes -- The captured dream / Octave Thanet -- Truth / Carrie Moss Hawley -- Work
+  / Irving N. Brant -- Some magic and a moral / Virginia H. Reichard -- Sonny''s wish
+  / Bertha M. Shambaugh -- Dog / Edwin L. Sabin -- The unredeemed / Emerson Hough
+  -- Tinkling cymbals / Helen Sherman Griffith -- The first laugh / Reuben F. Place
+  -- The freighter''s dream / Ida M. Huntington -- A box from home / Helen Cowles
+  LeCron -- The spirit of spring / Laura L. Hinkley -- Work is a blessing / Lafayette
+  Young -- September / Esse V. Hathaway -- The poet of the future / Tacitus Hussey
+  -- Putting the stars with the bars / Verne Marshall -- The kings of Saranazett /
+  Lewis Worthington Smith -- The old cane mill / Nellie Gregg Tomlinson -- The queer
+  little thing / Eleanor Hoyt Brainerd -- An American wake / Rose A. Crow -- Rochester,
+  Minn. / Marie G. Stapp -- God''s back yard / Jessie Welborn Smith -- The wild crab
+  apple / Julia Ellen Rogers -- A ballad of the corn / S. H. M. Byers -- The children''s
+  blessing / Virginia Roderick -- Kitchener''s Mob / James Norman Hall -- The professor
+  / Calista Halsey Patchin -- My baby''s horse / Emilie Blackmore Stapp -- The call
+  of the race / Elizabeth Cooper -- One wreath of rue / Cynthia Westover Alden --
+  Woodrow Wilson and Wells, war''s great authors / Honoré Willsie -- A field / Minnie
+  Stichter -- Your lad, and my lad / Randall Parrish -- Peace and then—? / Detlev
+  Fredrik Tillisch -- Semper fidelis / Addie B. Billington -- Our bird friends / Margaret
+  Coulson Walker -- A load of hay / James B. Weaver -- Iowa as a literary field /
+  Johnson Brigham.'
+title: Prairie Gold
+url: http://www.gutenberg.org/ebooks/39957
